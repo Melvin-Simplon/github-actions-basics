@@ -10,7 +10,6 @@
 ressources/requirements.txt  @WhiteMuush
 
 # Les fichiers de sécurité requièrent une double validation
-.github/dependabot.yml     @WhiteMuush
 .github/CODEOWNERS         @WhiteMuush
 
 ressources/*               @jaims-31 @WhiteMuush
